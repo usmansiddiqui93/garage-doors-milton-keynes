@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_src/
+Disallow: /print-pack/
+Allow: /
+Sitemap: https://www.garage-doors-milton-keynes.co.uk/sitemap.xml

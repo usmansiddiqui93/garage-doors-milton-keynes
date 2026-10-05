@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Garage Doors Milton Keynes van outside a home with a new roller garage door">
+<rect width="1200" height="760" rx="28" fill="#DCE4EF"/><circle cx="1040" cy="150" r="70" fill="#E3A33B" opacity=".85"/>
+<path d="M60 680 L60 290 L340 110 L620 290 L620 680 Z" fill="#FFFFFF"/>
+<path d="M30 306 L340 92 L650 306" fill="none" stroke="#14213D" stroke-width="30" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="140" y="340" width="400" height="340" fill="#14213D"/>
+<rect x="128" y="318" width="424" height="32" rx="10" fill="#1F4E89"/>
+<rect x="150" y="350" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="367" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="384" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="401" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="418" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="435" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="452" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="469" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="486" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="503" width="380" height="13" rx="3" fill="#F4F7FD"/><rect x="150" y="520" width="380" height="13" rx="3" fill="#F4F7FD"/>
+<rect x="150" y="537" width="380" height="9" fill="#C8553D"/>
+<path d="M0 680 H1200 V732 Q1200 760 1172 760 H28 Q0 760 0 732 Z" fill="#C5D0DF"/>
+<rect x="0" y="680" width="1200" height="10" fill="#14213D" opacity=".15"/>
+<g transform="translate(470,428) scale(.6)">
+<ellipse cx="600" cy="468" rx="560" ry="18" fill="#000" opacity=".12"/>
+<defs><clipPath id="vba"><path d="M60 70 Q60 40 95 40 L850 40 Q900 40 930 70 L1050 200 Q1070 222 1110 232 Q1150 242 1150 290 L1150 400 Q1150 420 1130 420 L80 420 Q60 420 60 400 Z"/></clipPath></defs>
+<g clip-path="url(#vba)">
+  <rect x="0" y="0" width="1200" height="520" fill="#FFFFFF"/>
+  <path d="M0 300 L560 300 Q640 300 700 250 L1200 -60 L1200 520 L0 520 Z" fill="#E3A33B"/>
+  <path d="M0 340 L600 340 Q690 340 760 290 L1200 10 L1200 520 L0 520 Z" fill="#1F4E89"/>
+  <rect x="60" y="356" width="520" height="10" fill="#E3A33B"/>
+  <rect x="60" y="376" width="520" height="10" fill="#E3A33B" opacity=".7"/>
+  <rect x="60" y="396" width="520" height="10" fill="#E3A33B" opacity=".45"/>
+</g>
+<path d="M60 70 Q60 40 95 40 L850 40 Q900 40 930 70 L1050 200 Q1070 222 1110 232 Q1150 242 1150 290 L1150 400 Q1150 420 1130 420 L80 420 Q60 420 60 400 Z" fill="none" stroke="#14213D" stroke-width="6"/>
+<path d="M872 70 L1010 205 L872 205 Z" fill="#9FB4D9" stroke="#14213D" stroke-width="6" stroke-linejoin="round"/>
+<line x1="860" y1="60" x2="860" y2="420" stroke="#14213D" stroke-width="4"/>
+<line x1="520" y1="44" x2="520" y2="420" stroke="#14213D" stroke-width="2" opacity=".2"/>
+<rect x="890" y="232" width="40" height="10" rx="5" fill="#14213D"/>
+<rect x="1128" y="252" width="24" height="34" rx="6" fill="#C8553D"/>
+<g fill="#14213D"><circle cx="250" cy="420" r="62"/><circle cx="960" cy="420" r="62"/></g>
+<g fill="#D9DFEA"><circle cx="250" cy="420" r="30"/><circle cx="960" cy="420" r="30"/></g>
+<g transform="translate(90,74) scale(1.15)">
+  <rect width="100" height="100" rx="22" fill="#1F4E89"/>
+  <path d="M14 46 L50 18 L86 46" fill="none" stroke="#E3A33B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="26" y="48" width="48" height="36" rx="3" fill="#FFFFFF"/>
+  <rect x="26" y="48" width="48" height="7" fill="#E3A33B"/>
+  <rect x="26" y="59" width="48" height="4" fill="#1F4E89" opacity=".9"/>
+  <rect x="26" y="67" width="48" height="4" fill="#1F4E89" opacity=".9"/>
+  <rect x="26" y="75" width="48" height="4" fill="#1F4E89" opacity=".9"/>
+</g>
+<text x="232" y="128" font-family="'Bricolage Grotesque','Arial Black',Arial,sans-serif" font-weight="800" font-size="64" fill="#14213D" letter-spacing="-1.5">Garage Doors</text>
+<text x="236" y="172" font-family="'Bricolage Grotesque','Arial Black',Arial,sans-serif" font-weight="800" font-size="36" fill="#1F4E89" letter-spacing="7">MILTON KEYNES</text>
+<text x="92" y="228" font-family="'Figtree',Arial,sans-serif" font-weight="700" font-size="25" fill="#14213D">Repairs · Supply &amp; Fit · Electric Doors · Servicing</text>
+<text x="92" y="264" font-family="'Figtree',Arial,sans-serif" font-weight="800" font-size="24" fill="#1F4E89">garage-doors-milton-keynes.co.uk</text>
+<text x="92" y="330" font-family="'Bricolage Grotesque','Arial Black',Arial,sans-serif" font-weight="800" font-size="58" fill="#14213D">01908 000000</text>
+</g>
+</svg>
