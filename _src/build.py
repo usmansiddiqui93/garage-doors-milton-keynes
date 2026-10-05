@@ -197,6 +197,10 @@ def footer():
 <div class="callbar"><a href="tel:{PHONE_TEL}">📞 Call now</a><a href="{url("contact")}">Free quote</a></div>'''
 
 FORM_JS = '''<script>
+(function(){var dd=document.querySelectorAll('.nav details');
+dd.forEach(function(d){d.addEventListener('toggle',function(){if(d.open)dd.forEach(function(o){if(o!==d)o.open=false;});});});
+document.addEventListener('click',function(e){dd.forEach(function(d){if(!d.contains(e.target))d.open=false;});});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')dd.forEach(function(d){d.open=false;});});})();
 document.querySelectorAll('form.qf').forEach(function(f){f.addEventListener('submit',function(e){
   if(PREVIEW||!ENDPOINT){e.preventDefault();f.innerHTML='<div class="ok">Thanks! Online quotes are being set up — please call us on '+PHONE+' and we\'ll help straight away.</div>';}
 });});

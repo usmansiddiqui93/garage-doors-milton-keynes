@@ -34,6 +34,7 @@ h3{font-size:1.25rem;font-weight:700}
 .nav details>summary::after{content:"▾";margin-left:5px;font-size:12px;color:var(--blue)}
 .nav>a:hover,.nav details>summary:hover{background:var(--sky)}
 .nav details{position:relative}
+.nav details:last-of-type .menu{left:auto;right:0}
 .nav .menu{position:absolute;top:calc(100% + 8px);left:0;background:#fff;border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);padding:10px;display:grid;grid-template-columns:repeat(2,minmax(200px,1fr));gap:2px;min-width:460px}
 .nav .menu a{padding:8px 10px;border-radius:9px;text-decoration:none;color:var(--ink);font-weight:600;font-size:15px}
 .nav .menu a:hover{background:var(--sky);color:var(--blue)}
